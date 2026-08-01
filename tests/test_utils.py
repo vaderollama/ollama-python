@@ -1,5 +1,5 @@
 import json
-from typing import Any, Dict, List, Mapping, Union
+from typing import Any, Dict, List, Union
 
 from ollama._utils import convert_function_to_tool
 
